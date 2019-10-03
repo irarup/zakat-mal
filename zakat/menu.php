@@ -56,6 +56,7 @@
     <li><a href="zakat-investasi.php" target="isi">Zakat Investasi</a></li>
     <li><a href="zakat-tabungan.php" target="isi">Zakat Tabungan</a></li>
     <li><a href="zakat-rikaz.php" target="isi">Zakat Rikaz</a></li>
+     <li><a href="profile.php" target="isi">Profile Pembuat</a></li>
     <li><a href="referensi.php" target="isi">*Referensi</a></li>
 
   </ul>
