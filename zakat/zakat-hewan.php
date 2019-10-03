@@ -151,9 +151,8 @@
               }
               else{
                   $ket = "<div class='alert alert-info'><b> Anda Belum Wajib Bayar Zakat </b></div>
-                  <br>*Anda wajib bayar zakat jika memiliki 40 atau lebih KAMBING/DOMBA"";
+                  <br>*Anda wajib bayar zakat jika memiliki 40 atau lebih KAMBING/DOMBA";
               }
-
         }
 }
 ?>
