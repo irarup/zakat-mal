@@ -1,0 +1,37 @@
+
+body {
+	background-color: #f6caca;
+}
+.judul h1{
+	color: #82362e;
+	font-family: "Segoe Script";
+	font-size: 40px;
+	font-style: bold;
+	text-align: center;
+}
+.judul h3{
+	color: #82362e;
+	font-family: "Comic Sans MS";
+	font-style: bold;
+}
+.judul p{
+	color: #000;
+	font-family: "Segoe Print";
+}
+.judul .btn{
+	background-color: #a8564e;
+}
+.judul .btn:hover{
+	background-color: #cb867f;
+}
+.inpt {
+	width: 450px;
+}
+.hit{
+	padding-left: 16px;
+}
+.btn:hover{
+	background-color: #104e83;
+}
+
+
